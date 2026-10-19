@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio & Project Showcase",
+  "description": "Modern developer portfolio and project showcase with real-time project management, live chat, interactive search, notifications, and responsive dark/light mode.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

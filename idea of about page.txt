@@ -1,0 +1,548 @@
+
+<!doctype html>
+<html lang="en" class="" data-theme="light" data-default-theme="light" data-pwa-update="A new version is available. Refresh to update.">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="csrf-token" content="ymN9Dxz46Fn19JqTk0cEMATtngoJ3wwRiTcyvrcc">
+    
+    <meta name="app-base" content="https://mdrafiulislam.org">
+    <meta name="theme-color" content="#7130cf">
+    <meta name="description" content="Projects, journal, experience, and practical lessons by Md Rafiul Islam.">
+    <meta name="author" content="Md Rafiul Islam">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://mdrafiulislam.org/about">
+    <link rel="manifest" href="https://mdrafiulislam.org/manifest.json">
+    
+            <link rel="icon" type="image/webp" href="https://mdrafiulislam.org/storage/settings/favicon/4d91a641-f314-4a86-86cc-5fbe54abfae3.webp" sizes="any">
+        <link rel="apple-touch-icon" href="https://mdrafiulislam.org/storage/settings/favicon/4d91a641-f314-4a86-86cc-5fbe54abfae3.webp">
+        <link rel="icon" href="https://mdrafiulislam.org/favicon.ico" sizes="any">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Md Rafiul Islam - full stack developer">
+    <meta property="og:title" content="Md Rafiul Islam - full stack developer">
+    <meta property="og:description" content="Projects, journal, experience, and practical lessons by Md Rafiul Islam.">
+    <meta property="og:url" content="https://mdrafiulislam.org/about">
+    <meta property="og:image" content="https://mdrafiulislam.org/storage/settings/hero/c6fd8dbf-950f-4a97-ae1c-2908fad8c614.webp">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Md Rafiul Islam - full stack developer">
+    <meta name="twitter:description" content="Projects, journal, experience, and practical lessons by Md Rafiul Islam.">
+    <meta name="twitter:image" content="https://mdrafiulislam.org/storage/settings/hero/c6fd8dbf-950f-4a97-ae1c-2908fad8c614.webp">
+    <title>Md Rafiul Islam - full stack developer</title>
+    <link rel="preload" as="style" href="https://mdrafiulislam.org/build/assets/app-Dz90lV8w.css" /><link rel="modulepreload" as="script" href="https://mdrafiulislam.org/build/assets/app-CGvGBaEW.js" /><link rel="stylesheet" href="https://mdrafiulislam.org/build/assets/app-Dz90lV8w.css" /><script type="module" src="https://mdrafiulislam.org/build/assets/app-CGvGBaEW.js"></script>    </head>
+<body class="min-h-screen">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-full focus:bg-brand-600 focus:px-4 focus:py-2 focus:text-white">Skip to content</a>
+
+    <header class="sticky top-0 z-50 border-b border-[var(--line)] bg-[var(--header-bg)] backdrop-blur-xl">
+        <div class="site-container flex h-[4.75rem] items-center justify-between gap-5">
+            <a href="https://mdrafiulislam.org" class="group flex min-w-0 items-center gap-3" aria-label="Md Rafiul Islam - full stack developer">
+                                    <img src="https://mdrafiulislam.org/storage/settings/logo-header/97751534-65aa-47ad-ac90-b1a9dc95ab0a.webp" alt="" class="h-10 w-auto max-w-[10rem] shrink-0 object-contain">
+                                <span class="min-w-0">
+                    <span class="block truncate font-display text-sm font-bold tracking-tight sm:text-base">Md Rafiul Islam</span>
+                    <span class="hidden text-[10px] font-semibold uppercase tracking-[.18em] text-[var(--text-soft)] sm:block">Digital home</span>
+                </span>
+            </a>
+
+            <nav class="hidden items-center gap-0.5 lg:flex" aria-label="Primary navigation">
+                                                    <a href="https://mdrafiulislam.org/about" class="nav-link is-active">About</a>
+                                    <a href="https://mdrafiulislam.org/projects" class="nav-link ">Projects</a>
+                                    <a href="https://mdrafiulislam.org/experience" class="nav-link ">Experience</a>
+                                    <a href="https://mdrafiulislam.org/jobs" class="nav-link ">Jobs</a>
+                                    <a href="https://mdrafiulislam.org/gallery" class="nav-link ">Gallery</a>
+                                    <a href="https://mdrafiulislam.org/courses" class="nav-link ">Courses</a>
+                            </nav>
+
+            <div class="flex items-center gap-1.5 sm:gap-2">
+                <a href="https://mdrafiulislam.org/locale/bn" class="hidden rounded-full border border-[var(--line)] px-3 py-2 text-xs font-bold text-[var(--text-soft)] transition hover:border-brand-300 hover:text-brand-600 sm:inline-flex" title="Language">
+                    <span class="text-brand-500">বাং</span>
+                </a>
+
+                <button type="button" class="icon-button" data-search-toggle aria-label="Search" title="Search" aria-expanded="false" aria-controls="site-search-panel">
+                    <svg class="shrink-0" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 5 5"/>
+            </svg>
+                </button>
+
+                <button type="button" class="icon-button" data-theme-toggle aria-label="Toggle dark mode" aria-pressed="false">
+                    <span data-theme-label>☾</span>
+                </button>
+
+                                    <div class="relative" data-public-notifications data-guest-mode="true" data-load-error="Could not load notifications. Please try again.">
+    <button type="button" class="icon-button relative" data-notifications-toggle aria-expanded="false" aria-haspopup="true" aria-controls="public-notifications-panel" aria-label="Notifications" title="Notifications">
+        <svg class="shrink-0" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M18 9a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9ZM10 21h4"/>
+            </svg>
+        <span class="absolute -right-0.5 -top-0.5 flex h-4 min-w-4 items-center justify-center rounded-full bg-accent-500 px-1 text-[10px] font-bold leading-none text-white ring-2 ring-[var(--surface-solid)] hidden" data-notifications-badge>0</span>
+    </button>
+
+    
+    <div id="public-notifications-panel" class="fixed inset-x-3 top-[5.25rem] z-50 hidden overflow-hidden rounded-2xl border border-[var(--line)] bg-[var(--surface-solid)] shadow-xl sm:absolute sm:inset-x-auto sm:right-0 sm:top-12 sm:w-[22rem]" data-notifications-panel>
+        <div class="flex items-center justify-between gap-2 border-b border-[var(--line)] px-4 py-3">
+            <div class="flex items-center gap-2">
+                <h2 class="font-display text-sm font-bold text-[var(--text)]">Notifications</h2>
+                <span class="rounded-full bg-brand-100 px-2 py-0.5 text-[10px] font-bold text-brand-700 dark:bg-brand-900/40 dark:text-brand-200 hidden" data-notifications-count>0</span>
+            </div>
+            <button type="button" class="text-xs font-bold text-brand-600 transition hover:text-brand-500 disabled:opacity-50 dark:text-brand-300 hidden" data-notifications-mark-all>Mark all as read</button>
+        </div>
+
+        <div class="max-h-[22rem] overflow-y-auto overscroll-contain" data-notifications-list>
+            <a href="/projects/plasticshark-prepaid-card-marketplace" data-notification-item data-notification-id="128" class="flex items-start gap-3 border-b border-[var(--line)] px-4 py-3 text-left transition last:border-b-0 hover:bg-[var(--surface-soft)]">
+        <span class="icon-button h-9 w-9 shrink-0 bg-brand-50 text-brand-600 dark:bg-brand-900/30 dark:text-brand-300" aria-hidden="true"><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12 9 5 9-5M3 16l9 5 9-5"/>
+            </svg>
+</span>
+        <span class="min-w-0 flex-1">
+            <span class="flex items-start justify-between gap-2">
+                <span class="min-w-0 break-words text-sm font-semibold leading-5 text-[var(--text)]">New project: PlasticShark — Prepaid Card Marketplace</span>
+                            </span>
+                            <span class="line-clamp-2 mt-0.5 block break-words text-xs leading-5 text-[var(--text-soft)]">A digital storefront for browsing and purchasing prepaid cards, with product availability, card specifications, shopping cart, wallet funding, and integrated payment workflows.</span>
+                        <span class="mt-1 block text-[11px] text-[var(--text-soft)]">3 days ago</span>
+        </span>
+    </a>
+        <a href="/projects/invextream-investment-vip-rewards-platform" data-notification-item data-notification-id="127" class="flex items-start gap-3 border-b border-[var(--line)] px-4 py-3 text-left transition last:border-b-0 hover:bg-[var(--surface-soft)]">
+        <span class="icon-button h-9 w-9 shrink-0 bg-brand-50 text-brand-600 dark:bg-brand-900/30 dark:text-brand-300" aria-hidden="true"><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12 9 5 9-5M3 16l9 5 9-5"/>
+            </svg>
+</span>
+        <span class="min-w-0 flex-1">
+            <span class="flex items-start justify-between gap-2">
+                <span class="min-w-0 break-words text-sm font-semibold leading-5 text-[var(--text)]">New project: Invextream — Investment &amp; VIP Rewards Platform</span>
+                            </span>
+                            <span class="line-clamp-2 mt-0.5 block break-words text-xs leading-5 text-[var(--text-soft)]">A web-based investment management platform featuring configurable VIP packages, account balances, referral rewards, transaction tracking, and deposit and withdrawal workflows.</span>
+                        <span class="mt-1 block text-[11px] text-[var(--text-soft)]">3 days ago</span>
+        </span>
+    </a>
+        <a href="/projects/royalbet-casino-betting-platform" data-notification-item data-notification-id="126" class="flex items-start gap-3 border-b border-[var(--line)] px-4 py-3 text-left transition last:border-b-0 hover:bg-[var(--surface-soft)]">
+        <span class="icon-button h-9 w-9 shrink-0 bg-brand-50 text-brand-600 dark:bg-brand-900/30 dark:text-brand-300" aria-hidden="true"><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12 9 5 9-5M3 16l9 5 9-5"/>
+            </svg>
+</span>
+        <span class="min-w-0 flex-1">
+            <span class="flex items-start justify-between gap-2">
+                <span class="min-w-0 break-words text-sm font-semibold leading-5 text-[var(--text)]">New project: RoyalBet — Casino &amp; Betting Platform</span>
+                            </span>
+                            <span class="line-clamp-2 mt-0.5 block break-words text-xs leading-5 text-[var(--text-soft)]">A feature-rich casino and betting platform with interactive games, third-party game integrations, wallet management, payment processing, and role-based administration.</span>
+                        <span class="mt-1 block text-[11px] text-[var(--text-soft)]">3 days ago</span>
+        </span>
+    </a>
+        <a href="/projects/shoppos-point-of-sale-business-management-system" data-notification-item data-notification-id="125" class="flex items-start gap-3 border-b border-[var(--line)] px-4 py-3 text-left transition last:border-b-0 hover:bg-[var(--surface-soft)]">
+        <span class="icon-button h-9 w-9 shrink-0 bg-brand-50 text-brand-600 dark:bg-brand-900/30 dark:text-brand-300" aria-hidden="true"><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12 9 5 9-5M3 16l9 5 9-5"/>
+            </svg>
+</span>
+        <span class="min-w-0 flex-1">
+            <span class="flex items-start justify-between gap-2">
+                <span class="min-w-0 break-words text-sm font-semibold leading-5 text-[var(--text)]">New project: ShopPOS — Point of Sale &amp; Business Management System</span>
+                            </span>
+                            <span class="line-clamp-2 mt-0.5 block break-words text-xs leading-5 text-[var(--text-soft)]">A complete web-based POS and business management system for sales, barcode billing, inventory, customers, employees, expenses, and financial reporting.</span>
+                        <span class="mt-1 block text-[11px] text-[var(--text-soft)]">3 days ago</span>
+        </span>
+    </a>
+        <a href="/projects/cinezone-premium-video-streaming-platform" data-notification-item data-notification-id="124" class="flex items-start gap-3 border-b border-[var(--line)] px-4 py-3 text-left transition last:border-b-0 hover:bg-[var(--surface-soft)]">
+        <span class="icon-button h-9 w-9 shrink-0 bg-brand-50 text-brand-600 dark:bg-brand-900/30 dark:text-brand-300" aria-hidden="true"><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12 9 5 9-5M3 16l9 5 9-5"/>
+            </svg>
+</span>
+        <span class="min-w-0 flex-1">
+            <span class="flex items-start justify-between gap-2">
+                <span class="min-w-0 break-words text-sm font-semibold leading-5 text-[var(--text)]">New project: CineZone — Premium Video Streaming Platform</span>
+                            </span>
+                            <span class="line-clamp-2 mt-0.5 block break-words text-xs leading-5 text-[var(--text-soft)]">A premium video streaming platform with limited free previews, subscription-based full access, and complete admin-managed content.</span>
+                        <span class="mt-1 block text-[11px] text-[var(--text-soft)]">3 days ago</span>
+        </span>
+    </a>
+        <a href="/projects/manager-income-platform" data-notification-item data-notification-id="123" class="flex items-start gap-3 border-b border-[var(--line)] px-4 py-3 text-left transition last:border-b-0 hover:bg-[var(--surface-soft)]">
+        <span class="icon-button h-9 w-9 shrink-0 bg-brand-50 text-brand-600 dark:bg-brand-900/30 dark:text-brand-300" aria-hidden="true"><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12 9 5 9-5M3 16l9 5 9-5"/>
+            </svg>
+</span>
+        <span class="min-w-0 flex-1">
+            <span class="flex items-start justify-between gap-2">
+                <span class="min-w-0 break-words text-sm font-semibold leading-5 text-[var(--text)]">New project: Manager Income Platform</span>
+                            </span>
+                            <span class="line-clamp-2 mt-0.5 block break-words text-xs leading-5 text-[var(--text-soft)]">A scalable earning platform with a hierarchical manager system.</span>
+                        <span class="mt-1 block text-[11px] text-[var(--text-soft)]">5 days ago</span>
+        </span>
+    </a>
+        <a href="/projects/golden-income-platform" data-notification-item data-notification-id="122" class="flex items-start gap-3 border-b border-[var(--line)] px-4 py-3 text-left transition last:border-b-0 hover:bg-[var(--surface-soft)]">
+        <span class="icon-button h-9 w-9 shrink-0 bg-brand-50 text-brand-600 dark:bg-brand-900/30 dark:text-brand-300" aria-hidden="true"><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12 9 5 9-5M3 16l9 5 9-5"/>
+            </svg>
+</span>
+        <span class="min-w-0 flex-1">
+            <span class="flex items-start justify-between gap-2">
+                <span class="min-w-0 break-words text-sm font-semibold leading-5 text-[var(--text)]">New project: Golden Income Platform</span>
+                            </span>
+                            <span class="line-clamp-2 mt-0.5 block break-words text-xs leading-5 text-[var(--text-soft)]">A comprehensive earning and gaming platform for users to play, refer, and sell digital assets.</span>
+                        <span class="mt-1 block text-[11px] text-[var(--text-soft)]">5 days ago</span>
+        </span>
+    </a>
+        <a href="/projects/socialgrowbd-smm-reseller-panel" data-notification-item data-notification-id="121" class="flex items-start gap-3 border-b border-[var(--line)] px-4 py-3 text-left transition last:border-b-0 hover:bg-[var(--surface-soft)]">
+        <span class="icon-button h-9 w-9 shrink-0 bg-brand-50 text-brand-600 dark:bg-brand-900/30 dark:text-brand-300" aria-hidden="true"><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 12 9 5 9-5M3 16l9 5 9-5"/>
+            </svg>
+</span>
+        <span class="min-w-0 flex-1">
+            <span class="flex items-start justify-between gap-2">
+                <span class="min-w-0 break-words text-sm font-semibold leading-5 text-[var(--text)]">New project: SocialGrowBD – SMM Reseller Panel</span>
+                            </span>
+                            <span class="line-clamp-2 mt-0.5 block break-words text-xs leading-5 text-[var(--text-soft)]">A web-based SMM reseller panel for discovering social media marketing services, placing orders, managing account funds, and accessing customer support.</span>
+                        <span class="mt-1 block text-[11px] text-[var(--text-soft)]">5 days ago</span>
+        </span>
+    </a>
+        </div>
+
+        <div class="border-t border-[var(--line)] bg-[var(--surface-soft)] px-4 py-3">
+            <p class="text-[11px] font-bold uppercase tracking-[.14em] text-[var(--text-soft)]">Browser notifications</p>
+            <p class="mt-1 text-xs leading-5 text-[var(--text-soft)]" data-push-state data-enabled-text="Enabled on this browser" data-disabled-text="Not enabled on this browser" data-stale-text="Needs to be re-enabled (the push key changed)" data-unsupported-text="Not supported in this browser" data-blocked-text="Blocked — allow notifications in your browser settings, then enable again">Not enabled on this browser</p>
+            <div class="mt-3 flex flex-wrap items-center gap-2">
+                <button type="button" class="button button-secondary !px-3 !py-2 !text-xs" data-enable-notifications data-enable-text="Enable notifications" data-enabled-text="Notifications enabled" data-unsupported="Notifications are not supported in this browser." data-blocked="Notifications are blocked. Open this site&#039;s browser settings (the padlock or tune icon in the address bar), set notifications to Allow, then try again." data-success="You will receive new project, journal, course, and chat updates." data-error="Notifications could not be enabled."><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M18 8.5a6 6 0 0 0-11.7-1.6M6 9c0 7-3 7-3 9h13"/><path d="M10 21h4M18 12v6M15 15h6"/>
+            </svg>
+<span data-notification-label>Enable notifications</span></button>
+                <button type="button" class="button button-secondary !px-3 !py-2 !text-xs hidden" data-disable-notifications data-disabled="Notifications are off for this browser." data-disable-error="Notifications could not be turned off. Try again."><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M18 9a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9ZM10 21h4"/>
+            </svg>
+Disable</button>
+                <button type="button" class="button button-secondary !px-3 !py-2 !text-xs" data-test-notification hidden data-test-sent="Test notification sent." data-test-failed="Test notification could not be sent. Check that push is configured and this browser is subscribed."><svg class="shrink-0 h-4 w-4" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m21 3-7.2 18-3.2-7.6L3 10.2 21 3Z"/><path d="m10.6 13.4 4.8-4.8"/>
+            </svg>
+Send test notification</button>
+            </div>
+                            <p class="mt-3 text-xs leading-5 text-[var(--text-soft)]">Public announcements from the site.</p>
+                    </div>
+    </div>
+</div>                    <a href="https://mdrafiulislam.org/login" class="btn-primary !px-4 !py-2.5">Log in<svg class="shrink-0" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M5 12h14M13 6l6 6-6 6"/>
+            </svg>
+</a>
+                
+                <a href="https://mdrafiulislam.org/contact" class="btn-primary hidden !px-4 !py-2.5 xl:inline-flex">Contact<svg class="shrink-0" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M5 19 19 5M8 5h11v11"/>
+            </svg>
+</a>
+                <button type="button" class="icon-button lg:hidden" data-menu-toggle aria-label="Open menu" aria-controls="mobile-menu" aria-expanded="false">
+                    <svg class="shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M4 6h16M4 12h16M4 18h16"/>
+            </svg>
+                </button>
+            </div>
+        </div>
+        <div class="hidden border-t border-[var(--line)] bg-[var(--surface-solid)]/95" id="site-search-panel" data-search-panel>
+            <form method="get" action="https://mdrafiulislam.org/search" class="site-container flex flex-col gap-2 py-3 sm:flex-row sm:items-center" role="search">
+                <div class="relative flex-1">
+                    <svg class="shrink-0 pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-[var(--text-soft)]" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 5 5"/>
+            </svg>
+                    <input type="search" name="q" value="" placeholder="Search projects, journal, courses, and jobs." class="form-control !pl-11" aria-label="Search projects" data-search-input>
+                </div>
+                <button type="submit" class="btn-primary shrink-0 !px-6">Search</button>
+            </form>
+        </div>
+        <div class="hidden border-t border-[var(--line)] bg-[var(--surface-solid)]/95 lg:hidden" id="mobile-menu" data-mobile-menu aria-hidden="true">
+            <nav class="site-container grid gap-1 py-4" aria-label="Open menu">
+                <a href="https://mdrafiulislam.org" class="rounded-2xl px-4 py-3 text-sm font-semibold text-[var(--text-soft)] transition hover:bg-brand-50 hover:text-brand-700 dark:hover:bg-brand-900/30 dark:hover:text-brand-200 ">Home</a>
+                                    <a href="https://mdrafiulislam.org/about" class="rounded-2xl px-4 py-3 text-sm font-semibold text-[var(--text-soft)] transition hover:bg-brand-50 hover:text-brand-700 dark:hover:bg-brand-900/30 dark:hover:text-brand-200 bg-brand-50 text-brand-700 dark:bg-brand-900/30 dark:text-brand-200">About</a>
+                                    <a href="https://mdrafiulislam.org/projects" class="rounded-2xl px-4 py-3 text-sm font-semibold text-[var(--text-soft)] transition hover:bg-brand-50 hover:text-brand-700 dark:hover:bg-brand-900/30 dark:hover:text-brand-200 ">Projects</a>
+                                    <a href="https://mdrafiulislam.org/experience" class="rounded-2xl px-4 py-3 text-sm font-semibold text-[var(--text-soft)] transition hover:bg-brand-50 hover:text-brand-700 dark:hover:bg-brand-900/30 dark:hover:text-brand-200 ">Experience</a>
+                                    <a href="https://mdrafiulislam.org/jobs" class="rounded-2xl px-4 py-3 text-sm font-semibold text-[var(--text-soft)] transition hover:bg-brand-50 hover:text-brand-700 dark:hover:bg-brand-900/30 dark:hover:text-brand-200 ">Jobs</a>
+                                    <a href="https://mdrafiulislam.org/gallery" class="rounded-2xl px-4 py-3 text-sm font-semibold text-[var(--text-soft)] transition hover:bg-brand-50 hover:text-brand-700 dark:hover:bg-brand-900/30 dark:hover:text-brand-200 ">Gallery</a>
+                                    <a href="https://mdrafiulislam.org/courses" class="rounded-2xl px-4 py-3 text-sm font-semibold text-[var(--text-soft)] transition hover:bg-brand-50 hover:text-brand-700 dark:hover:bg-brand-900/30 dark:hover:text-brand-200 ">Courses</a>
+                                                <div class="mt-2 flex items-center justify-between border-t border-[var(--line)] pt-4">
+                    <a href="https://mdrafiulislam.org/contact" class="btn-primary w-full">Contact Me<svg class="shrink-0" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M5 19 19 5M8 5h11v11"/>
+            </svg>
+</a>
+                    <a href="https://mdrafiulislam.org/locale/bn" class="ml-3 rounded-full border border-[var(--line)] px-4 py-2 text-sm font-bold">বাংলা</a>
+                </div>
+                                    <div class="mt-2 grid grid-cols-2 gap-3">
+                        <a href="https://mdrafiulislam.org/login" class="rounded-2xl border border-[var(--line)] px-4 py-3 text-center text-sm font-bold">Log in</a>
+                        <a href="https://mdrafiulislam.org/register" class="btn-primary justify-center">Sign up</a>
+                    </div>
+                            </nav>
+        </div>
+    </header>
+    <div class="hidden fixed inset-0 z-40 bg-slate-950/30 backdrop-blur-sm lg:hidden" data-menu-overlay></div>
+
+    <main id="main-content">
+                                        <section class="relative overflow-hidden border-b border-[var(--line)] py-20 sm:py-28 lg:py-36">
+    <div class="hero-grid pointer-events-none absolute inset-0 opacity-70"></div>
+    <div class="hero-orb hero-orb-one"></div>
+    <div class="hero-orb hero-orb-two"></div>
+    <div class="site-container relative">
+        <div class="max-w-4xl">
+            <p class="eyebrow">About me</p>
+                        <h1 class="font-display text-balance text-4xl font-semibold leading-[1.05] tracking-tight sm:text-6xl lg:text-7xl">A developer who documents the real work.</h1>
+            <p class="section-copy text-lg sm:text-xl">I work at the intersection of practical development and approachable education. I enjoy turning complex workflows into clear digital experiences, then writing about the decisions behind the work.</p>                    </div>
+    </div>
+</section>
+
+    <section class="site-section">
+        <div class="site-container grid items-start gap-12 lg:grid-cols-[.72fr_1.28fr] lg:gap-24">
+            <div class="min-w-0 lg:sticky lg:top-32">
+                <div class="glass-card mx-auto w-full max-w-md min-w-0 overflow-hidden rounded-[2rem] p-3 lg:max-w-none">
+                    <div class="relative min-w-0 overflow-hidden rounded-[1.5rem]">
+                        <img src="https://mdrafiulislam.org/storage/settings/hero/c6fd8dbf-950f-4a97-ae1c-2908fad8c614.webp" alt="Md Rafiul Islam" loading="lazy" class="profile-photo aspect-[.9/1] object-cover" onerror="this.src='https://mdrafiulislam.org/images/profile-placeholder.svg'">
+                    </div>
+                </div>
+                <div class="mt-5 flex flex-wrap justify-center gap-2 lg:justify-start">
+                    <span class="status-pill"><span class="status-dot"></span>Available for thoughtful collaborations</span>
+                    <span class="status-pill"><svg class="shrink-0" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M20 10.2c0 5-8 11-8 11s-8-6-8-11a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/>
+            </svg>
+Bangladesh</span>                </div>
+            </div>
+            <div class="min-w-0">
+                <div class="grid gap-5 sm:grid-cols-3">
+                    <div class="soft-card p-5"><p class="font-display text-3xl font-semibold text-brand-600 dark:text-brand-300">11</p><p class="mt-2 text-xs font-semibold uppercase tracking-[.1em] text-[var(--text-soft)]">Published projects</p></div>
+                    <div class="soft-card p-5"><p class="font-display text-3xl font-semibold text-brand-600 dark:text-brand-300">0</p><p class="mt-2 text-xs font-semibold uppercase tracking-[.1em] text-[var(--text-soft)]">Journal entries</p></div>
+                    <div class="soft-card p-5"><p class="font-display text-3xl font-semibold text-brand-600 dark:text-brand-300">0</p><p class="mt-2 text-xs font-semibold uppercase tracking-[.1em] text-[var(--text-soft)]">Courses</p></div>
+                </div>
+                <div class="mt-12 space-y-6">
+                    <div class="flex gap-4"><span class="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-brand-100 text-brand-600 dark:bg-brand-900/50 dark:text-brand-200"><svg class="shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 1.4 5.6L19 10l-5.6 1.4L12 17l-1.4-5.6L5 10l5.6-1.4L12 3ZM19 16l.6 2.4L22 19l-2.4.6L19 22l-.6-2.4L16 19l2.4-.6L19 16Z"/>
+            </svg>
+</span><div><h2 class="font-display text-xl font-semibold">My approach</h2><p class="mt-2 leading-7 text-[var(--text-soft)]">I work at the intersection of practical development and approachable education. I enjoy turning complex workflows into clear digital experiences, then writing about the decisions behind the work.</p></div></div>
+                    <div class="grid gap-4 sm:grid-cols-3">
+                        <div class="soft-card p-5"><span class="flex h-9 w-9 items-center justify-center rounded-xl bg-brand-100 text-brand-600 dark:bg-brand-900/50 dark:text-brand-200"><svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m5 12 4.5 4.5L19 7"/>
+            </svg>
+</span><h3 class="mt-4 font-display font-semibold">Clarity over cleverness</h3><p class="mt-2 text-sm leading-6 text-[var(--text-soft)]">Useful systems should be understandable to the people who maintain them.</p></div>
+                        <div class="soft-card p-5"><span class="flex h-9 w-9 items-center justify-center rounded-xl bg-pink-100 text-accent-600 dark:bg-accent-900/40 dark:text-accent-200"><svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m12 3 1.4 5.6L19 10l-5.6 1.4L12 17l-1.4-5.6L5 10l5.6-1.4L12 3ZM19 16l.6 2.4L22 19l-2.4.6L19 22l-.6-2.4L16 19l2.4-.6L19 16Z"/>
+            </svg>
+</span><h3 class="mt-4 font-display font-semibold">Craft in the details</h3><p class="mt-2 text-sm leading-6 text-[var(--text-soft)]">Performance, accessibility, security, and content all belong in the build.</p></div>
+                        <div class="soft-card p-5"><span class="flex h-9 w-9 items-center justify-center rounded-xl bg-violet-100 text-violet-600 dark:bg-violet-900/40 dark:text-violet-200"><svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21V5.5Z"/><path d="M4 5.5V21M8 7h8M8 11h8"/>
+            </svg>
+</span><h3 class="mt-4 font-display font-semibold">Learn in public</h3><p class="mt-2 text-sm leading-6 text-[var(--text-soft)]">Every experiment should leave a useful lesson behind.</p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="site-section border-t border-[var(--line)] bg-[var(--surface-solid)]/35">
+        <div class="site-container">
+            <div class="flex flex-col justify-between gap-5 sm:flex-row sm:items-end"><div><p class="eyebrow">About me</p><h2 class="section-title">Education, work, and what comes next</h2></div><a href="https://mdrafiulislam.org/experience" class="btn-secondary self-start sm:self-end">View the full timeline<svg class="shrink-0" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M5 12h14M13 6l6 6-6 6"/>
+            </svg>
+</a></div>
+            <div class="relative mt-12 space-y-5 before:absolute before:bottom-5 before:left-[9px] before:top-5 before:w-px before:bg-[var(--line-strong)]">
+                                    <article class="relative pl-8 sm:pl-10">
+    <span class="absolute left-0 top-1.5 flex h-5 w-5 items-center justify-center rounded-full border-4 border-[var(--page-bg)] bg-gradient-to-br from-brand-500 to-accent-400 shadow-lg shadow-brand-500/20"></span>
+    <div class="glass-card p-5 sm:p-6">
+        <div class="flex flex-wrap items-center justify-between gap-3">
+            <span class="text-[.68rem] font-bold uppercase tracking-[.14em] text-brand-600 dark:text-brand-300">Education</span>
+                    </div>
+        <h3 class="mt-3 font-display text-xl font-semibold leading-tight tracking-tight sm:text-2xl">Tourism &amp; Hospitality Management</h3>
+        <p class="mt-1 text-sm font-semibold text-brand-600 dark:text-brand-300">Tourism &amp; Hospitality Management</p>        <p class="mt-4 text-sm leading-7 text-[var(--text-soft)]">Studying service, communication, and the operational side of memorable journeys.</p>                    <ul class="mt-5 grid gap-2 text-sm leading-6 text-[var(--text-soft)] sm:grid-cols-2">
+                                    <li class="flex gap-2"><span class="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-accent-400"></span><span>Study service design</span></li>
+                                    <li class="flex gap-2"><span class="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-accent-400"></span><span>Practice communication</span></li>
+                                    <li class="flex gap-2"><span class="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-accent-400"></span><span>Understand operational details</span></li>
+                            </ul>
+                    </div>
+</article>
+                            </div>
+        </div>
+    </section>
+    </main>
+
+    <footer class="mt-10 border-t border-[var(--line)] bg-[var(--surface-solid)]/55">
+        <div class="site-container grid gap-12 py-14 sm:grid-cols-2 lg:grid-cols-[1.4fr_.8fr_.8fr_1fr] lg:py-20">
+            <div>
+                <a href="https://mdrafiulislam.org" class="flex items-center gap-3">
+                                            <img src="https://mdrafiulislam.org/storage/settings/logo-footer/11bf3f53-981a-43a5-b6ef-6fde6043c286.webp" alt="" class="h-10 w-auto max-w-[10rem] shrink-0 object-contain">
+                                        <span class="font-display font-bold">Md Rafiul Islam</span>
+                </a>
+                <p class="mt-5 max-w-sm text-sm leading-7 text-[var(--text-soft)]">A personal digital home for projects, notes, work, and everything I am learning.</p>
+                                    <div class="mt-6 flex flex-wrap items-center gap-2">
+                                                    <a href="https://www.facebook.com/rafiul.islam.606438"  target="_blank" rel="noopener noreferrer"  class="icon-button" aria-label="Facebook" title="Facebook"><svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M14 8h3V4.5h-3c-2.8 0-4.5 1.7-4.5 4.6V12H7v3.6h2.5V22H14v-6.4h3l.5-3.6H14V9.6c0-.9.3-1.6 1-1.6Z" fill="currentColor" stroke="none"/>
+            </svg>
+</a>
+                                                    <a href="https://youtube.com/@virtualacademy-bd"  target="_blank" rel="noopener noreferrer"  class="icon-button" aria-label="YouTube" title="YouTube"><svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <rect x="3" y="5" width="18" height="14" rx="4"/><path d="m10 9 5 3-5 3V9Z" fill="currentColor" stroke="none"/>
+            </svg>
+</a>
+                                                    <a href="https://linkedin.com/in/mdrafiul-laravel"  target="_blank" rel="noopener noreferrer"  class="icon-button" aria-label="LinkedIn" title="LinkedIn"><svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286ZM5.337 7.433a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124ZM7.119 20.452H3.555V9h3.564v11.452ZM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003Z" fill="currentColor" stroke="none"/>
+            </svg>
+</a>
+                                                    <a href="https://wa.me/8801865467486"  target="_blank" rel="noopener noreferrer"  class="icon-button" aria-label="WhatsApp" title="WhatsApp"><svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z" fill="currentColor" stroke="none"/>
+            </svg>
+</a>
+                                            </div>
+                            </div>
+            <div>
+                <h2 class="text-xs font-bold uppercase tracking-[.16em] text-[var(--text)]">Navigate</h2>
+                <div class="mt-5 grid gap-3 text-sm text-[var(--text-soft)]">
+                    <a class="transition hover:text-brand-600" href="https://mdrafiulislam.org/projects">Projects</a>
+                    <a class="transition hover:text-brand-600" href="https://mdrafiulislam.org/experience">Experience</a>
+                    <a class="transition hover:text-brand-600" href="https://mdrafiulislam.org/jobs">Jobs</a>
+                    <a class="transition hover:text-brand-600" href="https://mdrafiulislam.org/gallery">Gallery</a>
+                    <a class="transition hover:text-brand-600" href="https://mdrafiulislam.org/courses">Courses</a>
+                </div>
+            </div>
+            <div>
+                <h2 class="text-xs font-bold uppercase tracking-[.16em] text-[var(--text)]">Connect</h2>
+                <div class="mt-5 grid gap-3 text-sm text-[var(--text-soft)]">
+                    <a class="transition hover:text-brand-600" href="https://mdrafiulislam.org/about">About</a>
+                    <a class="transition hover:text-brand-600" href="https://mdrafiulislam.org/contact">Contact</a>
+                    <a class="transition hover:text-brand-600" href="https://mdrafiulislam.org/locale/bn">বাংলা</a>
+                    <button type="button" class="w-fit text-left transition hover:text-brand-600" data-pwa-install data-fallback="Use browser menu → Install app / Add to Home Screen." data-installed="App installed">Install app</button>
+                </div>
+            </div>
+            <div>
+                <h2 class="text-xs font-bold uppercase tracking-[.16em] text-[var(--text)]">Language</h2>
+                <p class="mt-5 text-sm leading-7 text-[var(--text-soft)]">Bangladesh</p>
+                <button type="button" data-enable-notifications data-enable-text="Enable notifications" data-enabled-text="Notifications enabled" data-unsupported="Notifications are not supported in this browser." data-blocked="Notifications are blocked. Open this site&#039;s browser settings (the padlock or tune icon in the address bar), set notifications to Allow, then try again." data-success="You will receive new project, journal, course, and chat updates." data-error="Notifications could not be enabled." class="mt-5 inline-flex items-center gap-2 text-left text-sm font-semibold text-brand-600 transition hover:text-brand-400 dark:text-brand-300">
+                    <svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M18 9a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9ZM10 21h4"/>
+            </svg>
+<span data-notification-label>Enable notifications</span>
+                </button>
+                
+                <button type="button" data-test-notification hidden data-test-sent="Test notification sent." data-test-failed="Test notification could not be sent. Check that push is configured and this browser is subscribed." class="mt-3 inline-flex w-fit items-center gap-2 text-left text-sm font-semibold text-brand-600 transition hover:text-brand-400 dark:text-brand-300">
+                    <svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m21 3-7.2 18-3.2-7.6L3 10.2 21 3Z"/><path d="m10.6 13.4 4.8-4.8"/>
+            </svg>
+<span>Send test notification</span>
+                </button>
+                
+                <button type="button" data-disable-notifications hidden data-disabled="Notifications are off for this browser." data-disable-error="Notifications could not be turned off. Try again." class="mt-3 inline-flex w-fit items-center gap-2 text-left text-sm font-semibold text-brand-600 transition hover:text-brand-400 dark:text-brand-300">
+                    <svg class="shrink-0" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M18 9a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9ZM10 21h4"/>
+            </svg>
+<span>Turn off notifications</span>
+                </button>
+            </div>
+        </div>
+        <div class="border-t border-[var(--line)]">
+            <div class="site-container flex flex-col gap-3 py-5 text-xs text-[var(--text-soft)] sm:flex-row sm:items-center sm:justify-between">
+                <span>© 2026 Md Rafiul Islam. All rights reserved.</span>
+                <div class="flex flex-wrap items-center gap-x-5 gap-y-2">
+                    <button type="button" data-cookie-open class="inline-flex items-center gap-1.5 font-semibold text-brand-600 transition hover:text-brand-400 dark:text-brand-300"><svg class="shrink-0" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M12 3 5 6v5.5c0 4.2 2.9 8 7 9.5 4.1-1.5 7-5.3 7-9.5V6l-7-3Z"/><path d="m9 12 2 2 4-4"/>
+            </svg>
+Cookie preferences</button>
+                    <span>Built with Laravel, MySQL, and care.</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="cookie-consent hidden" data-cookie-consent data-preferences-allowed="0" data-save-error="Cookie preference could not be saved." role="dialog" aria-live="polite" aria-label="Cookies &amp; your privacy">
+    <div class="cookie-consent-card glass-card p-5 sm:p-6">
+        <div class="flex items-start justify-between gap-4">
+            <div data-cookie-summary>
+                <div class="flex items-center gap-2">
+                    <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-brand-100 text-brand-700 dark:bg-brand-900/40 dark:text-brand-200"><svg class="shrink-0" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M12 3 5 6v5.5c0 4.2 2.9 8 7 9.5 4.1-1.5 7-5.3 7-9.5V6l-7-3Z"/><path d="m9 12 2 2 4-4"/>
+            </svg>
+</span>
+                    <h2 class="font-display text-base font-bold tracking-tight text-[var(--text)]">Cookies &amp; your privacy</h2>
+                </div>
+                <p class="mt-3 max-w-2xl text-sm leading-6 text-[var(--text-soft)]">A few first-party cookies keep this site working. No advertising or analytics trackers are used.</p>
+                <p class="mt-2 max-w-2xl text-xs leading-5 text-[var(--text-soft)]">Browser notifications are separate from cookie choices — they only turn on when you click “Enable notifications”.</p>
+            </div>
+            <button type="button" data-cookie-close class="icon-button shrink-0" aria-label="Close">
+                <svg class="shrink-0" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m6 6 12 12M18 6 6 18"/>
+            </svg>
+            </button>
+        </div>
+
+        
+        <div data-cookie-preferences class="hidden mt-5 space-y-3">
+            <div class="soft-card flex items-start justify-between gap-3 p-4">
+                <div>
+                    <p class="text-sm font-bold text-[var(--text)]">Necessary</p>
+                    <p class="mt-1 text-sm leading-6 text-[var(--text-soft)]">Session, security, language, and live-chat cookies that keep the site and your conversation working. Always on.</p>
+                </div>
+                <span class="badge shrink-0">Always on</span>
+            </div>
+            <div class="soft-card flex items-start justify-between gap-3 p-4">
+                <div>
+                    <p class="text-sm font-bold text-[var(--text)]">Preferences</p>
+                    <p class="mt-1 text-sm leading-6 text-[var(--text-soft)]">Remembers the light/dark appearance between visits. Optional.</p>
+                </div>
+                <label class="relative inline-flex shrink-0 cursor-pointer items-center">
+                    <input type="checkbox" data-cookie-preferences-toggle class="peer sr-only"  />
+                    <span class="h-6 w-11 rounded-full bg-[var(--line-strong)] transition peer-checked:bg-brand-600 after:absolute after:left-0.5 after:top-0.5 after:h-5 after:w-5 after:rounded-full after:bg-white after:shadow after:transition peer-checked:after:translate-x-5"></span>
+                    <span class="sr-only">Preferences</span>
+                </label>
+            </div>
+        </div>
+
+        <div class="mt-5 flex flex-wrap items-center gap-3">
+            <button type="button" data-cookie-accept-all class="button button-primary">
+                <svg class="shrink-0" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m5 12 4.5 4.5L19 7"/>
+            </svg>
+<span>Accept all</span>
+            </button>
+            <button type="button" data-cookie-necessary-only class="button button-secondary">Necessary only</button>
+            <button type="button" data-cookie-manage class="button button-ghost">Manage preferences</button>
+            <button type="button" data-cookie-save class="button button-primary hidden">Save preferences</button>
+        </div>
+    </div>
+</div>    <div class="chat-panel hidden" data-chat-panel data-sending-text="Sending…" data-send-text="Send" data-error-text="Message could not be sent. Please try again." data-closed-text="This conversation is closed. Send a new message to start again." data-online-text="Online now" role="dialog" aria-label="Live chat">
+    <div class="flex items-center justify-between border-b border-[var(--line)] bg-gradient-to-r from-brand-600 to-accent-500 px-5 py-4 text-white">
+        <div class="flex items-center gap-3">
+            <span class="relative flex h-10 w-10 items-center justify-center rounded-full bg-white/15">
+                <svg class="shrink-0" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M20 11.5a7.5 7.5 0 0 1-8 7.5 8.8 8.8 0 0 1-3.5-.7L4 20l1.5-3.8A7.1 7.1 0 0 1 4 11.5 7.5 7.5 0 0 1 12 4a7.5 7.5 0 0 1 8 7.5Z"/>
+            </svg>
+                <span class="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-brand-600 bg-emerald-300"></span>
+            </span>
+            <div>
+                <h2 class="font-display text-sm font-bold">Live chat</h2>
+                <p data-chat-status class="mt-0.5 text-[11px] text-white/75">Online now</p>
+            </div>
+        </div>
+        <button type="button" data-chat-close class="flex h-9 w-9 items-center justify-center rounded-full bg-white/15 text-white transition hover:bg-white/25 focus:outline-none focus:ring-2 focus:ring-white/60" aria-label="Close chat">
+            <svg class="shrink-0" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m6 6 12 12M18 6 6 18"/>
+            </svg>
+        </button>
+    </div>
+    <div data-chat-messages class="no-scrollbar flex max-h-[330px] flex-1 flex-col gap-3 overflow-y-auto bg-[var(--surface-soft)] p-4" aria-live="polite">
+        <div class="chat-bubble chat-bubble-admin mr-auto rounded-bl-md">
+            <p>Hi! Send a message and I’ll get back to you here.</p>
+        </div>
+    </div>
+    <form data-chat-form class="border-t border-[var(--line)] bg-[var(--surface-solid)] p-4" novalidate>
+        <div class="flex items-end gap-2">
+            <textarea data-chat-message rows="2" maxlength="1500" required placeholder="Write your message…" class="form-control min-h-[72px] resize-none !rounded-xl !px-3 !py-2.5 text-sm" aria-label="Write your message…"></textarea>
+            <button data-chat-send type="submit" class="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-brand-600 to-accent-500 text-white shadow-lg shadow-brand-600/20 transition hover:-translate-y-0.5 disabled:cursor-wait disabled:opacity-60" aria-label="Send">
+                <svg class="shrink-0" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m21 3-7.2 18-3.2-7.6L3 10.2 21 3Z"/><path d="m10.6 13.4 4.8-4.8"/>
+            </svg>
+            </button>
+        </div>
+        <button type="button" data-chat-end class="mt-3 text-[11px] font-semibold text-[var(--text-soft)] underline decoration-[var(--line-strong)] underline-offset-4 transition hover:text-brand-600 dark:hover:text-brand-300">Close</button>
+    </form>
+</div>
+<button type="button" class="chat-launcher" data-chat-launcher aria-label="Open live chat" aria-controls="chat-panel">
+    <svg class="shrink-0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M20 11.5a7.5 7.5 0 0 1-8 7.5 8.8 8.8 0 0 1-3.5-.7L4 20l1.5-3.8A7.1 7.1 0 0 1 4 11.5 7.5 7.5 0 0 1 12 4a7.5 7.5 0 0 1 8 7.5Z"/>
+            </svg>
+    <span class="absolute right-0 top-0 h-3 w-3 rounded-full border-2 border-[var(--page-bg)] bg-emerald-400"></span>
+    <span class="absolute -right-1.5 -top-1.5 hidden h-5 min-w-5 items-center justify-center rounded-full border-2 border-[var(--page-bg)] bg-accent-500 px-1 text-[10px] font-bold leading-none text-white" data-chat-badge></span>
+</button>
+    <div class="lightbox-backdrop" data-lightbox aria-hidden="true" role="dialog" aria-modal="true" aria-label="Project gallery">
+    <div class="relative flex max-h-full w-full max-w-6xl flex-col items-center gap-3">
+        <button type="button" data-lightbox-close class="absolute right-0 top-0 z-10 flex h-11 w-11 items-center justify-center rounded-full bg-white/10 text-white transition hover:bg-white/20" aria-label="Close">
+            <svg class="shrink-0" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m6 6 12 12M18 6 6 18"/>
+            </svg>
+        </button>
+        <img data-lightbox-image src="" alt="" class="lightbox-image">
+        <p data-lightbox-caption class="max-w-3xl text-center text-sm text-white/75"></p>
+    </div>
+</div>
+    <div class="toast" data-toast role="status" aria-live="polite"></div>
+    </body>
+</html>
+

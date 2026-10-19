@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chitron Bhattacharjee Adi - Portfolio</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="#top">Chitron Bhattacharjee Adi</a>
+      <button class="menu-toggle" id="menuToggle" aria-label="Menu">&#9776;</button>
+      <nav class="nav" id="nav">
+        <a href="#projects">Projects</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero reveal">
+      <div class="container">
+        <div class="hero-content reveal">
+          <span class="kicker">Web Designer &amp; Developer</span>
+          <h1>Responsive websites <span class="grad">built for clients.</span></h1>
+          <p>I design and build clean, responsive, client-focused websites that work across mobile and desktop.</p>
+          <div class="hero-actions reveal">
+            <a class="cta" href="#projects">View Work <span>→</span></a>
+            <a class="cta outline" href="#contact">Get in Touch</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section reveal" id="projects">
+      <div class="container">
+        <h2 class="section-title reveal">Projects</h2>
+        <div id="projectsGrid" class="projects-grid"></div>
+        <div id="emptyState" class="empty-state reveal" style="display:none;">
+          No projects added yet.
+        </div>
+      </div>
+    </section>
+
+    <section class="section about reveal" id="about">
+      <div class="container">
+        <div class="about-text reveal">
+          <h2 class="section-title reveal">About Me</h2>
+          <p>Independent web designer building clean, responsive, client-focused websites. Specializing in classic, content-driven layouts that perform on every device.</p>
+          <div class="about-stats reveal">
+            <div class="stat"><span class="num">5+</span><span class="lbl">Projects</span></div>
+            <div class="stat"><span class="num">100%</span><span class="lbl">Responsive</span></div>
+            <div class="stat"><span class="num">1</span><span class="lbl">Focus — You</span></div>
+          </div>
+        </div>
+        <div class="about-img reveal">
+          <img src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=600&q=80" alt="Workspace">
+        </div>
+      </div>
+    </section>
+
+    <section class="section contact reveal" id="contact">
+      <div class="container">
+        <h2 class="section-title reveal">Contact</h2>
+        <p class="reveal">Interested in working together? Get in touch.</p>
+        <a class="btn reveal" href="mailto:hello@example.com">Email Me</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer reveal">
+    <div class="container">
+      <div class="footer-links">
+        <a href="#projects">Projects</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </div>
+      <div>&copy; <span id="year"></span> Chitron Bhattacharjee Adi. All rights reserved.</div>
+    </div>
+  </footer>
+
+  <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-database-compat.js"></script>
+  <script src="assets/main.js"></script>
+</body>
+</html>
